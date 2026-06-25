@@ -35,7 +35,7 @@ class _LoginScreenState extends State<LoginScreen> {
   bool _rememberMe = false;
 
   // ✅ UPDATED: Brighter cyan to match the screenshot
-  static const Color buttonPrimary = Color(0xFF00BCD4);
+  static const Color buttonPrimary = Color(0xFF006591);
   static const Color inputBorder = Color(0xFFE2E8F0);
   static const Color backgroundColor = Color(0xFFF7F9FB);
   static const Color textPrimary = Color(0xFF191C1E);
